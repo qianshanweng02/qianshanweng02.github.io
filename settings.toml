@@ -74,13 +74,11 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I am multimedia journalist from Shenzhen, China. My work ranges from short documentaries, social videos to photojournalism and news podcasts. 
-
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. 
+I am multimedia journalist from Shenzhen, China, currently pursuing my graduate studies at UC Berkeley. My work ranges from
+short documentaries, social videos to photojournalism and news podcasts. You can see my works on ABC 7 New York, Initium Media, 
+amNewYork and Brooklyn Paper.
 
 Also, you can pronounce my name like "chien-shan".
-
 """
 
 # Optional extra line at the bottom of every page.
@@ -105,13 +103,13 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
+title = "Short Documentary: A Dance to the New Year"
+description = "As gentrification and the COVID-19 Pandemic hits the aging NYC Chinatown, members of a beloved ballroom gather for a dance to a new year."
+url = "https://vimeo.com/1085045545?share=copy&fl=cl&fe=ci"
 image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+date = "May 2025"
 category = "Video Works"
-outlet = "Berkeleyside"
+outlet = ""
 
 [[work]]
 title = "The wells are running dry: a Central Valley town confronts its future"
@@ -120,7 +118,7 @@ url = "https://example.com/your-story-link-goes-here"
 image = "media/work/drought.jpg"
 date = "January 2026"
 category = "Video Works"
-outlet = "The San Francisco Chronicle"
+outlet = ""
 
 [[work]]
 title = "As grocery prices climb, more Cal students turn to the campus food pantry"
@@ -137,8 +135,8 @@ title = "Opinion: Student journalism deserves a seat at the press table"
 description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
 url = "https://example.com/your-story-link-goes-here"
 date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
+category = "Photojournalism"
+outlet = ""
 
 # ── A photo essay stored right here on your site ────────────
 #
