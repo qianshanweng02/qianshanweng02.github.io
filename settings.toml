@@ -64,7 +64,7 @@ phone = "646-920-8539"                          # e.g. "(510) 555-0123" — or l
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
+banner_photo = "profile-photo.jpg"   # A portrait or banner photo of you
 resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
@@ -110,7 +110,7 @@ description = "After a decade of debate and three hours of public comment, Berke
 url = "https://example.com/your-story-link-goes-here"
 image = "media/work/bike-lanes.jpg"
 date = "March 2026"
-category = "Journalism"
+category = "Video Works"
 outlet = "Berkeleyside"
 
 [[work]]
@@ -119,7 +119,7 @@ description = "In Teviston, families have watched their taps sputter for years. 
 url = "https://example.com/your-story-link-goes-here"
 image = "media/work/drought.jpg"
 date = "January 2026"
-category = "Journalism"
+category = "Video Works"
 outlet = "The San Francisco Chronicle"
 
 [[work]]
@@ -128,7 +128,7 @@ description = "Visits to the UC Berkeley Food Pantry have doubled in two years. 
 url = "https://example.com/your-story-link-goes-here"
 image = "media/work/food-bank.jpg"
 date = "November 2025"
-category = "Journalism"
+category = "Video Works"
 outlet = "The Daily Californian"
 
 # This one has no image on purpose — the site still handles it gracefully.
